@@ -9,7 +9,8 @@
   "dependencies": {
     "express": "2.5.x",
     "cheerio": "~0.12.0",
-    "commander": "~1.3.0"
+    "commander": "~1.3.0",
+    "restler": "~2.0.1"
   },
   "engines": {
     "node": "0.8.x",
